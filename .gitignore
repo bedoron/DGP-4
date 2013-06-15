@@ -1,0 +1,6 @@
+!Release/
+Release/glut*
+
+!Debug/
+Debug/glut*
+
